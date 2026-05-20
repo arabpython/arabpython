@@ -18,6 +18,22 @@
 
 ---
 
+## المستودعات التعليمية
+
+- **python-basics-arabic**  
+  أمثلة وأكواد دروس أساسيات Python باللغة العربية.
+
+- **python-examples-arabic**  
+  أمثلة عملية قصيرة للمبتدئين مرتبطة بسلسلة بايثون بالمثال.
+
+- **python-errors-arabic**  
+  حلول لأشهر أخطاء Python مع أمثلة توضح الخطأ وطريقة إصلاحه.
+
+- **python-projects-arabic**  
+  مشاريع Python بسيطة للمبتدئين للتطبيق العملي.
+
+---
+
 ## الموقع الرسمي
 
 🌐 [www.arabpython.com](https://www.arabpython.com)
