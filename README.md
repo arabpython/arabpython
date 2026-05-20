@@ -20,17 +20,17 @@
 
 ## المستودعات التعليمية
 
-- **python-basics-arabic**  
-  أمثلة وأكواد دروس أساسيات Python باللغة العربية.
+- **[python-basics-arabic](https://github.com/arabpython/python-basics-arabic)**  
+  أمثلة وأكواد دروس أساسيات بايثون باللغة العربية.
 
-- **python-examples-arabic**  
+- **[python-examples-arabic](https://github.com/arabpython/python-examples-arabic)**  
   أمثلة عملية قصيرة للمبتدئين مرتبطة بسلسلة بايثون بالمثال.
 
-- **python-errors-arabic**  
-  حلول لأشهر أخطاء Python مع أمثلة توضح الخطأ وطريقة إصلاحه.
+- **[python-errors-arabic](https://github.com/arabpython/python-errors-arabic)**  
+  حلول لأشهر أخطاء بايثون مع أمثلة توضح الخطأ وطريقة إصلاحه.
 
-- **python-projects-arabic**  
-  مشاريع Python بسيطة للمبتدئين للتطبيق العملي.
+- **[python-projects-arabic](https://github.com/arabpython/python-misc-lessons-arabic)**  
+  مشاريع بايثون بسيطة للمبتدئين للتطبيق العملي.
 
 ---
 
