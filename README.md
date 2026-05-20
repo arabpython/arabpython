@@ -1,16 +1,43 @@
-## Hi there 👋
+<div dir="rtl" align="right">
 
-<!--
-**arabpython/arabpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐍 Arab Python | بايثون العرب
 
-Here are some ideas to get you started:
+مرحبًا بك في حساب **بايثون العرب** على GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+نشارك محتوى تعليميًا عربيًا يساعد المبتدئين على تعلم لغة **Python** خطوة بخطوة، من الأساسيات إلى الأمثلة العملية وحلول الأخطاء الشائعة.
+
+---
+
+## ماذا ستجد هنا؟
+
+- أمثلة Python بسيطة للمبتدئين
+- أكواد تعليمية قابلة للتجربة
+- ملفات مساعدة للدروس المنشورة على الموقع
+- حلول لأشهر أخطاء Python
+- موارد عربية لتعلم البرمجة بطريقة عملية
+
+---
+
+## الموقع الرسمي
+
+🌐 [www.arabpython.com](https://www.arabpython.com)
+
+---
+
+## تابعنا
+
+X / Twitter: [ArabPythonTW](https://x.com/ArabPythonTW)  
+Telegram: [arabpythontg](https://t.me/arabpythontg)  
+Instagram: [arabpythonin](https://www.instagram.com/arabpythonin)
+
+---
+
+## هدفنا
+
+جعل تعلم **Python بالعربي** أسهل، أوضح، وأكثر عملية للمبتدئين.
+
+---
+
+> هذا الحساب مخصص للأكواد التعليمية والموارد المرتبطة بموقع **بايثون العرب**.
+
+</div>
